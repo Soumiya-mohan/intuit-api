@@ -28,6 +28,7 @@ Currently, custom fields are supported for the following transactions and entiti
     - Bill
     - Expense
     - Purchase Order
+    - Vendor Credit
    
 - Supported entities -     
     - Customer
